@@ -1,0 +1,15 @@
+.App-logo{
+    height: 35px;
+    float: left;
+    padding-left: 40px;
+}
+.App-header {
+    background-color: #1D428A;
+    height: 55px;
+    color: white;
+    /* display, align-item 联合使用让里面的img上下居中 */
+    display: flex;
+    align-items: center;
+    box-shadow: -1px 0 5px 0 #1D428A;
+    margin-bottom: 40px;
+}
