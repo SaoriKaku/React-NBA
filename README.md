@@ -5,10 +5,10 @@
 1. Command: npm start, you will see a default webpage with Stephen Curry's information.
 ![image](https://github.com/SaoriKaku/React-NBA/blob/master/images/nba-1.png)
 
-2. If you search "James", you will see the suggestions with players' name and image in the dropdown list.
+2. If you search "James", you will see the suggestions with players' image and name in the dropdown list.
 ![image](https://github.com/SaoriKaku/React-NBA/blob/master/images/nba-2.png)
 
-3. Click "James Harden", you will see the webpage with James Harden's information with the switch "off".
+3. Click "James Harden", you will see the webpage with James Harden's information with slider's value equal to "1", chart type "hexbin" and switch "off".
 ![image](https://github.com/SaoriKaku/React-NBA/blob/master/images/nba-5.png)
 
 4. If you change to switch to "on", you can see a tooltip when your mouse hover on a position.
