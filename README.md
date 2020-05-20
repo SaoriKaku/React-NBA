@@ -1,6 +1,6 @@
 # React JS based NBA Player Strength Visualization
 
-## Part 1: A simple presentation this ReactJS project
+## Part 1: A simple presentation for this ReactJS project
 
 1. Command: npm start, you will see a default webpage with Stephen Curry's information.
 ![image](https://github.com/SaoriKaku/React-NBA/blob/master/images/nba-1.png)
